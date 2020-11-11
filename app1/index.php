@@ -10,7 +10,7 @@
 
 <body>
  
-  <h1>Hello World!</h1>
+  <h1>Application 1</h1>
   <pre><?php echo "Connected to {$_SERVER['SERVER_NAME']} ({$_SERVER['SERVER_ADDR']})"; ?></pre>
 
 </body>
